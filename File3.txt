@@ -1,0 +1,13 @@
+See this content on Browser
+Basic commands to start of with : 
+pwd : present working directory
+
+ls:list all files
+
+node index.js
+
+mkdir intro-to-node: make directory(folder)
+
+cd: change directory
+
+touch index.js
